@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(bun create:*)",
+      "Bash(bun install:*)",
+      "Bash(bun add:*)",
+      "Bash(npx tsc:*)",
+      "Bash(./node_modules/.bin/tsc:*)",
+      "Bash(bun run build:*)",
+      "Bash(bun run dev)",
+      "Bash(timeout:*)",
+      "Bash(dir:*)"
+    ]
+  }
+}
